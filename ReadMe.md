@@ -8,6 +8,12 @@ Le cours est disponible ici :
 
 
 
+
++ Le fichier d'audit pour le benchmark : 
+
+https://docs.google.com/spreadsheets/d/1NhkvALZO4IMw9Y41rIcnu7W8hLg5S9ArW8hto8O-TJ4/edit?usp=sharing
+
+
 # 💻 Les consignes : 
 
 Les consignes pour cette évaluation sont les suivantes :
