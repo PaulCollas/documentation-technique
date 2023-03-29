@@ -1,0 +1,40 @@
+# ✨ Evaluation Documentation Technique : 
+
+Pour cette évaluation vous avez à disposition tous les documents vu en cours et les ressources sur Internet.
+
+# 📚 Les cours : 
+
+Le cours est disponible ici : 
+
+
+
+# 💻 Les consignes : 
+
+Les consignes pour cette évaluation sont les suivantes :
+
+- Réaliser un cahier des charge complet comme vu en cours sur le sujet.
+
+- Fournir une maquette Figma ou XD avec un prototype 
+
+- Fournir le dossier de développement HTML CSS JS avec les outils de développement vu en cours.
+
+Les sujets et les attribution pour chaque étudiant : 
+
+
+# ✔ Le barème 
+
+Le barème est disponible ici : 
+
+
+
+
+
+
+
+
+
+## Les conditions : 
+
+- Travail à réalisé durant les sessions de cours, les FOAD
+- Soutenance de 20 min (15 min de présentation + 5 min de questions)
+- Travail **individuel**
