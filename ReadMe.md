@@ -7,7 +7,6 @@ Pour cette évaluation vous avez à disposition tous les documents vu en cours e
 Le cours est disponible ici : 
 
 
-
 # 💻 Les consignes : 
 
 Les consignes pour cette évaluation sont les suivantes :
