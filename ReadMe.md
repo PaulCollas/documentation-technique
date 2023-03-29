@@ -18,19 +18,11 @@ Les consignes pour cette évaluation sont les suivantes :
 
 - Fournir le **dossier de développement HTML CSS JS** avec les outils et les notions de développement vu en cours.
 
-Les sujets et les attribution pour chaque étudiant : 
-
+Les sujets et les attribution pour chaque étudiant [ici](./sujets/attribution-sujets.md) 
 
 # ✔ Le barème 
 
-Le barème est disponible ici : 
-
-
-
-
-
-
-
+Le barème est disponible [ici](bareme.md) 
 
 
 ## Les conditions : 
