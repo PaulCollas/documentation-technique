@@ -12,11 +12,11 @@ Le cours est disponible ici :
 
 Les consignes pour cette évaluation sont les suivantes :
 
-- Réaliser un cahier des charge complet comme vu en cours sur le sujet.
+- Réaliser un **cahier des charge complet** comme vu en cours sur le sujet attribué.
 
-- Fournir une maquette Figma ou XD avec un prototype 
+- Fournir une **maquette Figma ou XD** avec un prototype 
 
-- Fournir le dossier de développement HTML CSS JS avec les outils de développement vu en cours.
+- Fournir le **dossier de développement HTML CSS JS** avec les outils et les notions de développement vu en cours.
 
 Les sujets et les attribution pour chaque étudiant : 
 
