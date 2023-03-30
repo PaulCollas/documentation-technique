@@ -13,23 +13,16 @@
 <br>
 **Date de création** : 3er avril 2021
 
-# 🧭 Informations
-
-**Chiffre d'affaires annuel** : Association à but non lucrative - 25000 CA en 2022
-<br>
-<br>
-**Produits** : 
-<br>
-<br>
-**Clients** :
-<br>
-<br>
-**Partenaires** : 
-<br>
-<br>
-**Distinctions** : 
-
 # ✨ Sites d'inspiration
+
+Les sites d'inspirations pour ce sujet : 
+
+- https://www.behance.net/gallery/132555815/Travel-Blog-page?tracking_source=search_projects%7Ctravel+blog
+
+- https://www.behance.net/gallery/157629189/Travel-agency-website?tracking_source=search_projects%7Ctravel+blog
+
+- https://www.behance.net/gallery/162176065/Travel-Blog-Concept?tracking_source=search_projects%7Ctravel+blog
+
 
 
 # 📃 Spitch commerciale 

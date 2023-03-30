@@ -10,6 +10,15 @@
 <br>
 **Nom du responsable** : Karl Pouro
 
+# ✨ Sites d'inspiration
+
+Les sites d'inspirations pour ce sujet : 
+
+- https://www.behance.net/gallery/164296943/Music-Event?tracking_source=search_projects%7CIT+event+website
+
+- https://www.behance.net/gallery/164611085/Event-Conference-Landing-Page?tracking_source=search_projects%7CIT+event+website
+
+- https://www.behance.net/gallery/166072225/Events-Website?tracking_source=search_projects%7CIT+event+website 
 
 # 📃 Spitch commerciale 
 
