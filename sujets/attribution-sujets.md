@@ -7,9 +7,9 @@ Aucun étudiant ne possède le même sujet.
 
 | Etudiant   |      Sujet      |  Lien |
 |----------|:-------------:|------:|
-| ALIX Marc |  Logiciel RH | [Doc - Logiciel RH](./sujet1-LogicielRH/) |
+| ALIX Marc |  Logiciel RH | [Doc - Blog de voyage](./sujet1-BlogVoyage/) |
 | BOISSET Quentin |  Site vitrine d'une entreprise maritime   |  [Doc - Site vitrine d'une entreprise maritime](./sujet2-SiteEntrepriseMaritime/) |
-| CAVRET Evan | Softphone |    [Doc - Softphone](./sujet3-Softphone/) |
+| CAVRET Evan | Softphone |    [Doc - Softphone](./sujet3-Portfolio/) |
 | CHAPLAIN Fabrice |  Site ecommerce - Boutique de Vêtement | [Doc - Site ecommerce / Boutique de Vêtement](./sujet4-EcommerceVetements/)  |
 | DUEZ Sébastien |    CRM Bancaire   |   [Doc - CRM Bancaire](./sujet5-CRMBancaire/) |
 | GIBERT Valentin | Landing Page - Tournoi Magic |    [Doc - Landing Page - Tournoi Magic](./sujet6-LandingPageMagic/) |
