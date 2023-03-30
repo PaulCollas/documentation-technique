@@ -17,7 +17,7 @@ Des fonctionnalités de marketing intégrées, telles que des codes de réductio
 
 Nous recherchons un développeur web expérimenté, ayant une solide expérience en développement de sites e-commerce, qui est capable de comprendre les exigences de The Modern Man et de créer un site web de qualité supérieure qui répond à toutes nos attentes.
 
-Si vous êtes intéressé par ce projet et que vous pensez être la personne idéale pour créer un site e-commerce exceptionnel pour The Modern Man, veuillez nous envoyer une proposition détaillée, comprenant le cahier des charges du projet avec l’étude d’opportunités, l’étude des distribution des besoins du système et le choix d’architecture système.
+Si vous êtes intéressé par ce projet et que vous pensez être la personne idéale pour créer un site e-commerce exceptionnel pour The Modern Man, veuillez nous envoyer une proposition détaillée, comprenant un cahier des charges complet, une maquette fonctionnelle et l'intégration HTML CSS JS.
 
 Nous avons hâte de travailler avec vous pour créer un site web qui contribuera à la croissance de notre entreprise et à la satisfaction de nos clients.
 Cordialement,

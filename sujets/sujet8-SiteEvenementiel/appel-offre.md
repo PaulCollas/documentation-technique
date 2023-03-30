@@ -14,7 +14,7 @@ Voici les principales fonctionnalités que nous recherchons dans le blog :
 
 Nous sommes ouverts à toute proposition créative et innovante pour améliorer l'expérience des participants. Nous recherchons des développeurs expérimentés ayant une expertise en matière de développement d'applications mobiles pour les sites, ainsi que des références solides dans la création d'applications pour des événements similaires.
 
-Merci de nous envoyer votre proposition de cahier des charges.
+Merci de nous envoyer votre proposition comprennant un cahier des charges complet, une maquette fonctionnelle et l'intégration HTML CSS JS.
 
 Nous nous réjouissons de travailler avec vous sur ce projet passionnant pour l'événement TechXpo.
 

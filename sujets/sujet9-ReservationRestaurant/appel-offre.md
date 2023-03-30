@@ -14,7 +14,7 @@ Le site de réservation devra comporter les fonctionnalités suivantes :
 
 Le site de réservation devra également être compatible avec les principaux navigateurs Web et les appareils mobiles, et offrir une expérience utilisateur fluide et cohérente sur tous les appareils.
 
-Si vous êtes intéressé par ce projet, veuillez soumettre votre offre de cahier des charges complet.
+Si vous êtes intéressé par ce projet, veuillez soumettre votre offre comprenant un cahier des charges complet, une maquette fonctionnelle et l'intégration HTML CSS JS.
 
 Nous sommes impatients de recevoir votre offre et de travailler avec vous pour créer un site de réservation en ligne de haute qualité pour notre restaurant Mangiare Bene.
 

@@ -12,7 +12,7 @@ La landing page devra inclure les éléments suivants :
 
 Nous recherchons un développeur web avec une expérience avérée dans la création de landing pages événementielles, qui possède des compétences en design web, développement front-end et back-end. Nous attachons une grande importance à la qualité du travail, à la rigueur et au respect des délais.
 
-Nous vous invitons à nous envoyer votre devis détaillé, incluant la création du cahier des charges (E.O, D.B.S et C.A.S).
+Nous vous invitons à nous envoyer votre devis détaillé, incluant la création un cahier des charges complet, une maquette fonctionnelle et l'intégration HTML CSS JS
 
 Si vous avez des questions ou si vous souhaitez obtenir plus d'informations sur notre événement, n'hésitez pas à nous contacter.
 

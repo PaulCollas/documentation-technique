@@ -13,7 +13,7 @@ Le site de réservation doit répondre aux spécifications suivantes :
 - Sécurité des données : Le site doit être sécurisé pour protéger les données sensibles des clients et les transactions de paiement.
 
 Nous recherchons un développeur expérimenté avec une expertise dans la création de sites de réservation en ligne pour les hôtels et une connaissance approfondie des dernières tendances en matière de design et de développement web. Nous sommes ouverts aux suggestions et aux idées innovantes pour améliorer l'expérience de réservation de nos clients.
-Si vous êtes intéressé par ce projet, veuillez nous fournir une proposition détaillée comprenant un cahier des charges complets (E.O, D.B.S, C.A.S)
+Si vous êtes intéressé par ce projet, veuillez nous fournir une proposition détaillée comprenant un cahier des charges complet, une maquette fonctionnelle et l'intégration HTML CSS JS.
 Nous attendons votre réponse avec impatience.
 Cordialement,
 
