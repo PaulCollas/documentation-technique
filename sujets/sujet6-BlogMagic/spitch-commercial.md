@@ -1,4 +1,4 @@
-# 🔔 Spitch Commercial - Landing page événementielle - Tournoi Magic
+# 🔔 Spitch Commercial - Blog Magic
 
 Si vous êtes un fan de Magic, vous savez probablement à quel point ce jeu peut être complexe et fascinant. Les Combattants de Zendikar sont une communauté de joueurs passionnés qui se réunissent pour partager leur amour pour ce jeu de cartes unique. Que vous soyez un joueur débutant ou expérimenté, vous trouverez ici une mine d'informations, de conseils et de stratégies pour améliorer votre jeu.
 

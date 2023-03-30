@@ -1,4 +1,4 @@
-# 🛒 Appel d'offre - Blog événementiel - Tournoi Magic
+# 🛒 Appel d'offre - Blog Magic
 
 Cher développeur, 
 

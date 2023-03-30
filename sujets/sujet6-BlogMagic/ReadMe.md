@@ -1,8 +1,8 @@
-# 💻 Landing page événementielle - Tournoi Magic
+# 💻 Blog Magic
 
 # 📞 Coordonéees 
 
-**Nom de l'événement** : Les Combattants de Zendikar
+**Nom de l'associations** : Les Combattants de Zendikar
 <br>
 **Coordonnées** : Salle polyvalente - Cherbourg
 <br>
