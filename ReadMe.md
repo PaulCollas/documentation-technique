@@ -4,12 +4,12 @@ Pour cette évaluation vous avez à disposition tous les documents vu en cours e
 
 # 📚 Les cours : 
 
-Le cours est disponible ici : 
+- Le cours est disponible ici : 
 
 
 
 
-+ Le fichier d'audit pour le benchmark : 
+- Le fichier d'audit pour le benchmark : 
 
 https://docs.google.com/spreadsheets/d/1NhkvALZO4IMw9Y41rIcnu7W8hLg5S9ArW8hto8O-TJ4/edit?usp=sharing
 
@@ -45,11 +45,11 @@ Le barème est disponible **[ici](bareme.md)**
 
 Les livrables devront être dans un **repository github** avec les caractéristiques suivantes : 
 
-**Nom du repository** : "rendu-doc-technique", 
+- Nom du repository : "rendu-doc-technique", 
 <br>
-Architecture du repo : 
-- ReadMe.md (à compléter)
-- 📁 developpement (avec vos fichiers de code à l'intérieur)
-- 📁 présentation (avec votre fichier **.pdf** de votre présentation)
-- 📁 rapport (avec votre rapport complet au format **.pdf**)
+- Architecture du repo : 
+* ReadMe.md (à compléter)
+* 📁 developpement (avec vos fichiers de code à l'intérieur)
+* 📁 présentation (avec votre fichier **.pdf** de votre présentation)
+* 📁 rapport (avec votre rapport complet au format **.pdf**)
 
