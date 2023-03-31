@@ -47,7 +47,9 @@ Les livrables devront être dans un **repository github** avec les caractéristi
 
 - Nom du repository : "rendu-doc-technique", 
 <br>
+<br>
 - Architecture du repo : 
+- 
 * ReadMe.md (à compléter)
 * 📁 developpement (avec vos fichiers de code à l'intérieur)
 * 📁 présentation (avec votre fichier **.pdf** de votre présentation)
