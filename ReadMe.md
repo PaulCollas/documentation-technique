@@ -46,7 +46,9 @@ Le barème est disponible **[ici](bareme.md)**
 Les livrables devront être dans un **repository github** avec les caractéristiques suivantes : 
 
 - **Nom du repository** : "rendu-doc-technique", 
+
 <br>
+
 - **Architecture du repo** : 
 - ReadMe.md (à compléter)
 - 📁 developpement (avec vos fichiers de code à l'intérieur)
