@@ -3,16 +3,16 @@
 Chaque étudiant possède un sujet unique :
 <br>
 
-| Etudiant   |      Sujet      |  Lien |
+| Etudiant   |      Nom de l'entreprise / association      |  Lien |
 |----------|:-------------:|------:|
-| ALIX Marc |  Logiciel RH | [Doc - Blog de voyage](./sujet1-BlogVoyage/) |
-| BOISSET Quentin |  Site vitrine d'une entreprise maritime   |  [Doc - Site vitrine d'une entreprise maritime](./sujet2-SiteEntrepriseMaritime/) |
-| CAVRET Evan | Softphone |    [Doc - Portfolio](./sujet3-Portfolio/) |
-| CHAPLAIN Fabrice |  Site ecommerce - Boutique de Vêtement | [Doc - Site ecommerce / Boutique de Vêtement](./sujet4-EcommerceVetements/)  |
-| DUEZ Sébastien |    Site Cinéma   |   [Doc - Site Cinéma](./sujet5-SiteCinema/) |
-| GIBERT Valentin | Landing Page - Tournoi Magic |    [Doc - Landing Page - Tournoi Magic](./sujet6-LandingPageMagic/) |
-| HERVE Sulivan | Site de réservation - Hôtel |    [Doc - Site de réservation - Hôtel](./sujet7-ReservationHotel/) |
-| LEQUART Guillaume |  Site évenementiel | [Doc - Site évenementiel](./sujet8-SiteEvenementiel/) |
-| REMY Enzo |    Site de réservation - Restaurant italien   |   [Doc - Site de réservation - Restaurant italien](./sujet9-ReservationRestaurant/) |
+| ALIX Marc |  Horizons Infinis | [Doc - Blog de voyage](./sujet1-BlogVoyage/) |
+| BOISSET Quentin |  Ocean blue Group   |  [Doc - Site vitrine d'une entreprise maritime](./sujet2-SiteEntrepriseMaritime/) |
+| CAVRET Evan | Louis Jacques - Photographe |    [Doc - Portfolio](./sujet3-Portfolio/) |
+| CHAPLAIN Fabrice |  The Modern Man | [Doc - Site ecommerce / Boutique de Vêtement](./sujet4-EcommerceVetements/)  |
+| DUEZ Sébastien |    Écran d'Art   |   [Doc - Site Cinéma](./sujet5-SiteCinema/) |
+| GIBERT Valentin | Les Combattants de Zendikar |    [Doc - Landing Page - Tournoi Magic](./sujet6-LandingPageMagic/) |
+| HERVE Sulivan | L’Hôtel du Lac |    [Doc - Site de réservation - Hôtel](./sujet7-ReservationHotel/) |
+| LEQUART Guillaume |  TechXpo | [Doc - Site évenementiel](./sujet8-SiteEvenementiel/) |
+| REMY Enzo |    Mangiare bene  |   [Doc - Site de réservation - Restaurant italien](./sujet9-ReservationRestaurant/) |
 
 
