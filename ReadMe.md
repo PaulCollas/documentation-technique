@@ -6,6 +6,8 @@ Pour cette évaluation vous avez à disposition tous les documents vu en cours e
 
 - Le cours est disponible ici : 
 
+https://www.canva.com/design/DAFPePR8q08/VU03OhiyYqi3oZG-3GOiuQ/view?utm_content=DAFPePR8q08&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
 
 
 
