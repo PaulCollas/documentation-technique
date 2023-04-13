@@ -55,3 +55,8 @@ Les livrables devront être dans un **repository github** avec les caractéristi
 - 📁 présentation (avec votre fichier **.pdf** de votre présentation)
 - 📁 rapport (avec votre rapport complet au format **.pdf**)
 
+# 👩‍💻 FOAD
+
+Les tâches à faire pour la FOAD de vendredi 14 avril : **[ici](./FOAD/vendredi-14-avril.md)**
+
+Les tâches à faire pour la FOAD du jeudi 5 mai : **[ici](./FOAD/jeudi-5-mai.md)**
