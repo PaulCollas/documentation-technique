@@ -8,8 +8,6 @@ Pour cette évaluation vous avez à disposition tous les documents vu en cours e
 
 https://www.canva.com/design/DAFPePR8q08/VU03OhiyYqi3oZG-3GOiuQ/view?utm_content=DAFPePR8q08&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
-- Le cours de la documentation orienté métier est disponible ici : 
-
 
 - Le fichier d'audit pour le benchmark : 
 
@@ -59,4 +57,10 @@ Les livrables devront être dans un **repository github** avec les caractéristi
 
 Les tâches à faire pour la FOAD de vendredi 14 avril : **[ici](./FOAD/vendredi-14-avril.md)**
 
-Les tâches à faire pour la FOAD du jeudi 5 mai : **[ici](./FOAD/jeudi-5-mai.md)**
+Les tâches à faire pour la FOAD du jeudi 5 mai : **[ici](./FOAD/jeudi-4-mai.md)**
+
+# 💫 En voir plus 
+
+- Le cours de la documentation orienté métier est disponible ici : 
+
+https://www.canva.com/design/DAFhP7wGH9s/WxHK_7CBqobOf3nUbI-PAg/view?utm_content=DAFhP7wGH9s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
