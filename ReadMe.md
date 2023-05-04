@@ -61,7 +61,7 @@ L'ordre de passage pour les oraux est disponible **[ici](./ordre.md)**
 
 Les tâches à faire pour la FOAD de vendredi 14 avril : **[ici](./FOAD/vendredi-14-avril.md)**
 
-Les tâches à faire pour la FOAD du jeudi 5 mai : **[ici](./FOAD/jeudi-4-mai.md)**
+Les tâches à faire pour la FOAD du jeudi 5 mai : **[ici](./FOAD/jeudi-5-mai.md)**
 
 # 💫 En voir plus 
 
