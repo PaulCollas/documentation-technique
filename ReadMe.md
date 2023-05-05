@@ -22,8 +22,6 @@ Les consignes pour cette évaluation sont les suivantes :
 
 - Fournir une **maquette Figma ou XD** avec un prototype 
 
-- Fournir le **dossier de développement HTML CSS JS** avec les outils et les notions de développement vu en cours.
-
 Les sujets et les attribution pour chaque étudiant **[ici](./sujets/attribution-sujets.md)**
 
 # ✔ Le barème 
@@ -41,17 +39,8 @@ Le barème est disponible **[ici](bareme.md)**
 
 - La présentation (diaporama)
 - Le rapport 
-- Le code 
 
-Les livrables devront être dans un **repository github** avec les caractéristiques suivantes : 
-
-**Nom du repository** : "rendu-doc-technique", 
-
-**Architecture du repo** : 
-- ReadMe.md (à compléter)
-- 📁 developpement (avec vos fichiers de code à l'intérieur)
-- 📁 présentation (avec votre fichier **.pdf** de votre présentation)
-- 📁 rapport (avec votre rapport complet au format **.pdf**)
+Les livrables devront être envoyés avant la fin de la session FOAD du mardi 9 juin sur le devoir sur Teams sous le format .zip.
 
 ## 📊 Ordre de passage : 
 
