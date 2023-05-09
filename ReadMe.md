@@ -28,7 +28,7 @@ Les sujets et les attribution pour chaque étudiant **[ici](./sujets/attribution
 
 Le barème est disponible **[ici](bareme.md)**
 
-# Les notes 
+# 💬 Les notes 
 
 Les notes pour l'oral sont disponible **[ici](notes-oral.md)**
 
